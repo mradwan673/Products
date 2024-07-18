@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Products</string>
+
+    <string name="product_image">product image</string>
+    <string name="user_name">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login_screen">Login Screen</string>
+    <string name="welcome">Welcome !</string>
+    <string name="description_with_value">Description: %1$s</string>
+    <string name="brand_with_value">Brand: %1$s</string>
+    <string name="category_with_value">Category: %1$s</string>
+    <string name="price_with_value">Price: %1$s</string>
+    <string name="rating_with_value">Rating: %1$s</string>
+    <string name="back">Back</string>
+    <string name="language">العربية</string>
+
+</resources>
